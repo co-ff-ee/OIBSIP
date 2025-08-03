@@ -20,7 +20,7 @@ It allows users to customize password length, select character types (letters, d
 
 ## 🖼️ GUI Preview
 
-![Preview](https://drive.google.com/file/d/1GF7gJbtzmVhoo7U1h355yoTiYWR8uduW/view?usp=drive_link)
+[Preview](https://drive.google.com/file/d/1GF7gJbtzmVhoo7U1h355yoTiYWR8uduW/view?usp=drive_link)
 
 ---
 
