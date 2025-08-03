@@ -33,3 +33,4 @@ It allows users to customize password length, select character types (letters, d
 1. Install `pyperclip`:
 ```bash
 pip install pyperclip
+
