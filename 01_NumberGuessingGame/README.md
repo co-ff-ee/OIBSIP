@@ -11,7 +11,6 @@ A fun Python terminal game where you try to guess the number the computer has pi
 ## How to Run
 ```bash
 python guessing_game.py
-'''
+```
 ## Demo
-'''bash 
 https://www.loom.com/share/5ddf53b3dbdd4bd2bf6ca22e9efeb8ce?sid=5c10e69a-e9d5-4d56-8ca0-04ac36292096
