@@ -24,6 +24,10 @@ It allows users to customize password length, select character types (letters, d
 
 ---
 
+## 🎥 Demo  
+👉 [Watch the demo video](https://www.loom.com/share/b8e1ad68b5604c98bdfd11774a9a2508?sid=e47c887c-f4ec-43c4-823a-f5f6027ab516)
+
+
 ## ▶️ How to Run
 
 1. Install `pyperclip`:
