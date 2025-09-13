@@ -18,14 +18,18 @@ This app helps users calculate BMI, categorize their weight status, and get quic
 - Error handling for invalid inputs
 - Reset button to clear all fields
 
----
 
+---
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
    git clone https://github.com/co-ff-ee/OIBSIP.git
    cd OIBSIP/03_BMICalculator
 
+2. Run the script:
+
+   python bmi_calculator.py
+   
 ## 📚 Concepts Used
 
 Tkinter for GUI
