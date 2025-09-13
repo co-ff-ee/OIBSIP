@@ -25,3 +25,15 @@ This app helps users calculate BMI, categorize their weight status, and get quic
    ```bash
    git clone https://github.com/co-ff-ee/OIBSIP.git
    cd OIBSIP/03_BMICalculator
+
+## 📚 Concepts Used
+
+Tkinter for GUI
+Custom ttk styling for modern look
+Exception handling for invalid input
+
+BMI formula: BMI = weight(kg) / (height(m))^2
+
+🏷️ Internship Info
+This project is part of Oasis Infobyte Internship (Python Programming)
+Task: BMI Calculator (Task 3)
