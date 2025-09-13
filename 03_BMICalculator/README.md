@@ -27,8 +27,13 @@ This app helps users calculate BMI, categorize their weight status, and get quic
    cd OIBSIP/03_BMICalculator
 
 2. Run the script:
+Run `python bmi_calculator.py` in the terminal.
 
-   python bmi_calculator.py
+
+
+##🎥 Demo Video
+
+[▶️ Watch the demo here]()
    
 ## 📚 Concepts Used
 
