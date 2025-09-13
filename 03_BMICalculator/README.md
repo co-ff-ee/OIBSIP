@@ -43,6 +43,6 @@ Exception handling for invalid input
 
 BMI formula: BMI = weight(kg) / (height(m))^2
 
-🏷️ Internship Info
+## 🏷️ Internship Info
 This project is part of Oasis Infobyte Internship (Python Programming)
 Task: BMI Calculator (Task 3)
