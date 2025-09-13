@@ -31,7 +31,7 @@ Run `python bmi_calculator.py` in the terminal.
 
 
 
-##🎥 Demo Video
+## 🎥 Demo Video
 
 [▶️ Watch the demo here]()
    
